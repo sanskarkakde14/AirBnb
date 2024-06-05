@@ -1,5 +1,4 @@
-# Airbnb Historical Data Visualization Project  ![Airbnb](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prnewswire.com%2Fnews-releases%2Ftableau-launches-hyper--new-data-engine-technology-delivering-unprecedented-analytical-performance-300581066.html&psig=AOvVaw07U3TLilqvKj3BiaTIHKgF&ust=1717683123068000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOCv27vSxIYDFQAAAAAdAAAAABAE)
-
+# Airbnb Historical Data Visualization Project  
 
 ## Overview
 
